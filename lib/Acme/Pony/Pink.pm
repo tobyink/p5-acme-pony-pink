@@ -8,7 +8,7 @@ use utf8;
 
 BEGIN {
 	$Acme::Pony::Pink::AUTHORITY = 'cpan:TOBYINK';
-	$Acme::Pony::Pink::VERSION   = '0.001';
+	$Acme::Pony::Pink::VERSION   = '0.002';
 }
 
 use Carp qw<croak>;
